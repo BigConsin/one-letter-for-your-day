@@ -13,13 +13,14 @@ The whole entry is one letter. Candidates I weighed for the day
     M - microwaved, the same day reheated
     J - jet-lagged
 
-I pick J: jet-lagged is the sharpest picture of the day - awake at
-the wrong hours, asleep at the wrong ones, a whole day lived in the
-wrong time zone. It is vivid, it is funny in a way that lands at
-once, and it feels true. This program writes that one letter, J,
-and nothing else, to /output/entry.txt. It uses only the Python
-3.13 standard library, needs no network, and writes the same bytes
-on every run.
+First version picked J (jet-lagged), but the user judged it not
+good enough: it sounds performed rather than true. Final pick is
+U: undercaffeinated - the whole day run on too little coffee, eyes
+open and brain still booting, the most honest report of an ordinary
+working day and the one every reader recognises at once. This
+program writes that one letter, U, and nothing else, to
+/output/entry.txt. It uses only the Python 3.13 standard library,
+needs no network, and writes the same bytes on every run.
 
 Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
 /output:
@@ -30,7 +31,7 @@ Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
 import os
 from pathlib import Path
 
-LETTER = "J"
+LETTER = "U"
 
 
 def main() -> None:
