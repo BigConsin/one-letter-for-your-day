@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/BigConsin/one-letter-for-your-day/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 [![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/BigConsin/one-letter-for-your-day/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
-One letter for my day: J, for jet-lagged - awake at the wrong hours, asleep at the wrong ones, a whole day lived in the wrong time zone. The program writes exactly that one letter to /output/entry.txt.
+One letter for my day: U, for undercaffeinated - the whole day run on too little coffee, eyes open and brain still booting. The program writes exactly that one letter to /output/entry.txt.
 
 ## Run it
 
